@@ -1,0 +1,35 @@
+[
+  {
+    "order_id": "ORD-201",
+    "customer_id": "C001",
+    "product_ids": [
+      "P001",
+      "P002"
+    ],
+    "total": 350
+  },
+  {
+    "order_id": "ORD-202",
+    "customer_id": "C002",
+    "product_ids": [
+      "P003"
+    ],
+    "total": 150
+  },
+  {
+    "order_id": "ORD-203",
+    "customer_id": "C003",
+    "product_ids": [
+      "P001",
+      "P004",
+      "P005"
+    ],
+    "total": 680
+  },
+  {
+    "order_id": "ORD-204",
+    "customer_id": "C001",
+    "product_ids": [],
+    "total": 0
+  }
+]
